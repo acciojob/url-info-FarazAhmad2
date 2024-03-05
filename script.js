@@ -5,4 +5,5 @@ function urlLength(url) {
 
 let url = prompt();
 
-alert(urlLength(url));
+alert(`The length of the URL is: ${urlLength(url)}`);
+
